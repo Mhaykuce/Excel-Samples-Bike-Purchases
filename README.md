@@ -1,5 +1,5 @@
 # Excel-Samples-Bike-Purchases
-This dataset offers comprehensive demographic and behavioural data about specific consumers in three (3) regions (Europe, North-America and Pacific) in September 2021, with the aim of examining the variables that affect bicycle sales. 
+This interactive dataset offers comprehensive demographic and behavioural data about specific consumers in three (3) regions (Europe, North-America and Pacific) in September 2021, with the aim of examining the variables that affect bicycle sales. 
 It includes information about the individual's age, gender, income, marital status, education, occupation, number of children, home and car ownership, commuting distance, region and whether or not the individual purchased the bike or not.  
 This dataset is perfect for analyzing consumer behavior and creating prediction models to find potential bike buyers.
 
