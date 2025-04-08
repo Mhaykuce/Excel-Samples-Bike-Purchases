@@ -19,6 +19,8 @@ According to gender analysis, although the difference is not significant, male c
 
 And lastly, Convenience and practicality are powerful motivators, as seen by the fact that those who commute the smallest distances—particularly 0–1 miles—are the most likely to buy bikes.
 
-These are the reports from North America and the Pacific region
+These are the reports from North America and the Pacific region respectively.
 ![North_America](https://github.com/user-attachments/assets/a138b8a4-f1ac-4aa5-b242-14fc99420f64)
+
+
 ![Pacific](https://github.com/user-attachments/assets/b0133f57-b1eb-48f2-ba79-8d88d3810126)
